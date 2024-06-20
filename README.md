@@ -1,3 +1,26 @@
+## ntrip_client (jazzy) - 1.3.0-4
+
+The packages in the `ntrip_client` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy ntrip_client --override-release-repository-push-url git@github.com:revyos-ros/ntrip_client-release.git` on `Thu, 20 Jun 2024 04:05:58 -0000`
+
+The `ntrip_client` package was released.
+
+Version of package(s) in repository `ntrip_client`:
+
+- upstream repository: https://github.com/LORD-MicroStrain/ntrip_client.git
+- release repository: https://github.com/revyos-ros/ntrip_client-release.git
+- rosdistro version: `1.3.0-4`
+- old version: `1.3.0-3`
+- new version: `1.3.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ntrip_client (rolling) - 1.3.0-1
 
 The packages in the `ntrip_client` repository were released into the `rolling` distro by running `/usr/bin/bloom-release ntrip_client --rosdistro rolling --no-web --non-interactive` on `Thu, 22 Feb 2024 22:41:00 -0000`
