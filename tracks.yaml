@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/ntrip_client-release.git
 tracks:
   foxy:
     actions:
